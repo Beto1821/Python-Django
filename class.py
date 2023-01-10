@@ -15,7 +15,7 @@ print(mydog.age)
 
 
 
-# mydog.bark()
+mydog.bark()
 # mydog.name = "Fido"
 # mydog.age = 16
 # print(mydog.name)
